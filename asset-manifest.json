@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/cac-react-clase7/static/css/main.1a5896c0.css",
+    "main.js": "/cac-react-clase7/static/js/main.5d318443.js",
+    "static/js/787.a7600b6e.chunk.js": "/cac-react-clase7/static/js/787.a7600b6e.chunk.js",
+    "static/media/logo.svg": "/cac-react-clase7/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/cac-react-clase7/index.html",
+    "main.1a5896c0.css.map": "/cac-react-clase7/static/css/main.1a5896c0.css.map",
+    "main.5d318443.js.map": "/cac-react-clase7/static/js/main.5d318443.js.map",
+    "787.a7600b6e.chunk.js.map": "/cac-react-clase7/static/js/787.a7600b6e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a5896c0.css",
+    "static/js/main.5d318443.js"
+  ]
+}
