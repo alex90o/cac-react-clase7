@@ -17,14 +17,27 @@ function App() {
         >
           Learn React
         </a>
+        <p>
+        Links
+        </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://github.com/alex90o/cac-react-clase7"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Link de Repositorio
         </a>
+        <a
+          className="App-link"
+          href="https://alex90o.github.io/cac-react-clase7/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+         Host
+        </a>
+
+        
       </header>
     </div>
   );
